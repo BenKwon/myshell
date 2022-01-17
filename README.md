@@ -1,7 +1,10 @@
 # myshell
 > Shell written by C
-
-supported command<br>
+## How to run
+```bash
+./makefile
+```
+## supported command<br>
 - foreground and background execution (&) ex) (sleep 4;ls) & <br>
 - multiple commands separated by semicolons <br>
 - command group (ex. (ls -l | grep ^d; pwd ;date) > out.txt <br>
