@@ -3,6 +3,7 @@
 ## How to run
 ```bash
 ./makefile
+./smsh
 ```
 ## supported command<br>
 - foreground and background execution (&) ex) (sleep 4;ls) & <br>
