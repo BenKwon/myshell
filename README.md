@@ -1,9 +1,10 @@
 # myshell
 > Shell written by C
 ## How to run
+You need gcc compiler to run commands below
 ```bash
 ./makefile
-./smsh
+./smsh.exe
 ```
 ## supported command<br>
 - foreground and background execution (&) ex) (sleep 4;ls) & <br>
