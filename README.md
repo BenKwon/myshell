@@ -2,7 +2,7 @@
 > Shell written by C
 ## How to run
 You need gcc compiler to execute makefile or just compile smsh.c with any c compilers.
-## supported command<br>
+## support<br>
 - foreground and background execution (&) ex) (sleep 4;ls) & <br>
 - multiple commands separated by semicolons <br>
 - command group (ex. (ls -l | grep ^d; pwd ;date) > out.txt <br>
