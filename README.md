@@ -1,5 +1,5 @@
 # myshell
-> Shell written by C
+> Linux Shell written by C
 ## How to run
 You need gcc compiler to execute makefile or just compile smsh.c with any c compilers.
 ## support<br>
