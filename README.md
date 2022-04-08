@@ -1,7 +1,7 @@
 # myshell
 > Linux Shell written with C
 ## How to run
-You need a gcc compiler to execute makefile or just compile smsh.c with any c compilers.
+You need a gcc compiler to execute the makefile or just compile smsh.c with any c compiler.
 ## support<br>
 - foreground and background execution (&) ex) (sleep 4;ls) & <br>
 - multiple commands separated by semicolons <br>
